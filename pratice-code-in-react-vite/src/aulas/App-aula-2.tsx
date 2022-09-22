@@ -1,3 +1,4 @@
+{/* Aula 2 do Módulo 2 do curso React da b7web (Usando o State)  */}
 import React, { useState } from "react";
 
 const App = () => {
