@@ -6,7 +6,11 @@ const App = () => {
 
   return (
     <div>
-      
+      <button style={{
+        backgroundColor: 'red',
+        color: 'white',
+        border: '0'
+      }}>Clique Aqui</button>
     </div>
   );
 }
